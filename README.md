@@ -1,6 +1,6 @@
 A simple local client using openai api
 
-note: this is a pure for end solution, be careful with your api key
+note: this is a pure frontend solution, be careful with your api key
 
 To start:
 
